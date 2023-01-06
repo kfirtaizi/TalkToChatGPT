@@ -20,7 +20,7 @@ Let the packages install completely.
 In the main directory of the project simply run:  
 - `python start_gui.py`  
 This GUI should pop up:  
-![image](https://user-images.githubusercontent.com/44837286/211004450-92f3715f-4312-485a-acdf-0b40de5514f2.png)
+![image](https://user-images.githubusercontent.com/44837286/211014433-14d82242-5fb4-4d86-a6e9-8c354447de18.png)
 
 Configure it to your liking, press Start, and at the first run a new login for ChatGPT will pop up which will require you to login just one time.
 I don't recommend usign your main email with your main password (In any third party program) - use an alt instead if you wish.
