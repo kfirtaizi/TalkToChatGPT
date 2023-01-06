@@ -18,6 +18,7 @@ Let the packages install completely.
 **IMPORTANT NOTE**: You can configure your wakeword in the GUI, but it will always start with `OK`. So if I want my wakeword to be Google and I configure `(OK) Google`, to wake it up I will have to say `OK Google`.  
 
 In the main directory of the project simply run:  
+- (If not already running the virtual environment) `venv\Scripts\activate`
 - `python start_gui.py`  
 This GUI should pop up:  
 ![image](https://user-images.githubusercontent.com/44837286/211014433-14d82242-5fb4-4d86-a6e9-8c354447de18.png)
