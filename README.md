@@ -3,7 +3,7 @@ A python project to remotely ask ChatGPT questions (Wake it up with a wakeword) 
 
 # Prerequisite
 * Windows Operating system (Tested on Windows 10)
-* Have python installed (tested on Python 3.10)
+* Have python installed (Tested on Python 3.10)
 
 # Installation
 After downloading the project and extracting it (Press on Code -> Download ZIP: https://github.com/kfirtaizi/TalkToChatGPT/archive/refs/heads/main.zip),
