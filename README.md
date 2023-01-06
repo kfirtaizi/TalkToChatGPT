@@ -1,5 +1,5 @@
 # TalkToChatGPT
-A python project to remotely ask ChatGPT questions and make ChatGPT speak the answer out loud, with no user interaction.
+A python project to remotely ask ChatGPT questions (Wake it up with a wakeword) and make ChatGPT speak the answer out loud, with no user interaction.
 
 # Prerequisite
 * Windows Operating system (Tested on Windows 10)
@@ -15,6 +15,8 @@ Let it finish.
 Let the packages install completely.  
 
 # Running and configuring
+**IMPORTANT NOTE**: You can configure your wakeword in the GUI, but it will always start with `OK`. So if I want my wakeword to be Google and I configure `(OK) Google`, to wake it up I will have to say `OK Google`.  
+
 In the main directory of the project simply run:  
 `python start_gui.py`  
 This GUI should pop up:  
