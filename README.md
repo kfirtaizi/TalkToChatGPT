@@ -6,7 +6,7 @@ A python project to remotely ask ChatGPT questions (Wake it up with a wakeword) 
 * Have python installed (Tested on Python 3.10)
 
 # Installation
-After downloading the project and extracting it (Press on Code -> Download ZIP: https://github.com/kfirtaizi/TalkToChatGPT/archive/refs/heads/main.zip),
+After downloading the project and extracting it (Press on Code -> Download ZIP),
 navigate to the path of the project (where `start_gui.py` resides), and create a virtual environment for the project by:  
 - `python -m venv venv`  
 Let it finish.  
