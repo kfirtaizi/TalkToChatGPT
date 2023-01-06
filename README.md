@@ -25,7 +25,7 @@ This GUI should pop up:
 Configure it to your liking, press Start, and at the first run a new login for ChatGPT will pop up which will require you to login just one time.
 I don't recommend usign your main email with your main password (In any third party program) - use an alt instead if you wish.
 
-* Profile Name is the chrome profile that will be created for you the first time you're running this program. It is there to start with the cookies of this profile. I recommend just keeping it `TalkToChatGPT` as it will automatically create a new profile with this name for you. If you want to use your existing profile change the name to the name of your profile as it shows (as a folder) in: `C:\Users\<username>\AppData\Local\Google\Chrome\User Data`
+* Profile Name is the chrome profile that will be created for you the first time you're running this program. It is there to start with the cookies of this profile for you to not need to login everytime to ChatGPT. I recommend just keeping it `TalkToChatGPT` as it will automatically create a new profile with this name for you. If you want to use your existing profile change the name to the name of your profile as it shows (as a folder) in: `C:\Users\<username>\AppData\Local\Google\Chrome\User Data`
 
 From now on you can leave this program running in the background, lay in bed, talk to it and hear the answers.
 
