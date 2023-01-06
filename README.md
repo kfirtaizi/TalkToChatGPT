@@ -25,4 +25,4 @@ I don't recommend usign your main email with your main password (In any third pa
 
 From now on you can leave this program running in the background, lay in bed, talk to it and hear the answers.
 
-NOTE: The program is pretty buggy at the moment because I didn't feel like fixing all the details (Maybe in the future if there will be demand), but it should work good if you just press Start and let it do its thing.
+**NOTE: The program is pretty buggy at the moment because I didn't feel like fixing all the details (Maybe in the future if there will be demand), but it should work good if you just press Start and let it do its thing.**
